@@ -4,9 +4,8 @@ Cell_Counting Application
 
 	- Cell_Counting.exe
 	- MyAppInstaller_mcr.exe 
-	- This readme file 
 
-2. To begin installation, click 'MyAppInstaller_mcr.exe'
+2. To begin installation, go to "Releases" and download 'Cell_Counting.exe' and 'MyAppInstaller_mcr.exe'
 
 3. Version 9.6 (R2019a) of MATLAB Runtime has been included in the package, and will be installed with the application.*
 
