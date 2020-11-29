@@ -2,9 +2,9 @@ Cell_Counting Application
 
 1. Files required for Standalone Application (MATLAB not required):
 
-	-Cell_Counting.exe
-	-MyAppInstaller_mcr.exe 
-	-This readme file 
+	- Cell_Counting.exe
+	- MyAppInstaller_mcr.exe 
+	- This readme file 
 
 2. To begin installation, click 'MyAppInstaller_mcr.exe'
 
